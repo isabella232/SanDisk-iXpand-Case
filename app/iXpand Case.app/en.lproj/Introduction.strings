@@ -1,0 +1,21 @@
+
+/* Class = "IBUIButton"; normalTitle = "Menu"; ObjectID = "37Q-Yt-eGk"; */
+"37Q-Yt-eGk.normalTitle" = "Menu";
+
+/* Class = "IBUILabel"; text = "Having trouble connecting?\nTroubleshoot with one or more \nof items below"; ObjectID = "OTr-Pf-I27"; */
+"OTr-Pf-I27.text" = "Having trouble connecting?\nTroubleshoot with one or more \nof items below";
+
+/* Class = "IBUILabel"; text = "Drive Not Detected"; ObjectID = "aml-zW-1I8"; */
+"aml-zW-1I8.text" = "Drive Not Detected";
+
+/* Class = "IBUILabel"; text = "iXpand Memory Case"; ObjectID = "hFd-ct-vi3"; */
+"hFd-ct-vi3.text" = "iXpand Memory Case";
+
+/* Class = "IBUIButton"; normalTitle = "Get Started!"; ObjectID = "mBl-Ai-75l"; */
+"mBl-Ai-75l.normalTitle" = "Get Started!";
+
+/* Class = "IBUIButton"; normalTitle = "My Downloads"; ObjectID = "r4V-J3-VWa"; */
+"r4V-J3-VWa.normalTitle" = "My Downloads";
+
+/* Class = "IBUILabel"; text = "Please insert drive and be sure it's charged"; ObjectID = "EI4-gf-WaU" */
+"EI4-gf-WaU.text" = "Please make sure the \ncase is connected";

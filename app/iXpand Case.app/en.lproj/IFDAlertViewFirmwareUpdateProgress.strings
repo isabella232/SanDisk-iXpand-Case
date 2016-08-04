@@ -1,0 +1,6 @@
+
+/* Class = "IBUILabel"; text = "Firmware upgrade in process"; ObjectID = "u5g-nf-ELP"; */
+"u5g-nf-ELP.text" = "Firmware upgrade in process";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "yJe-hl-teS"; */
+"yJe-hl-teS.normalTitle" = "Cancel";

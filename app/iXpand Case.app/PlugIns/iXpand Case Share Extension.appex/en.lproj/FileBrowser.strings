@@ -1,0 +1,33 @@
+
+/* Class = "IBUILabel"; text = "Where would you like to move the selected files?"; ObjectID = "EjR-Cl-SRs"; */
+"EjR-Cl-SRs.text" = "Where would you like to move the selected files?";
+
+/* Class = "IBUILabel"; text = "SanDiskSecureAccess Vault"; ObjectID = "FRv-VY-tz9"; */
+"FRv-VY-tz9.text" = "SanDiskSecureAccess Vault";
+
+/* Class = "IBUILabel"; text = "New Folder"; ObjectID = "Iil-la-IoH"; */
+"Iil-la-IoH.text" = "New Folder";
+
+/* Class = "IBUILabel"; text = "Sort By"; ObjectID = "JpR-ac-35N"; */
+"JpR-ac-35N.text" = "Sort By";
+
+/* Class = "IBUIButton"; normalTitle = "list"; ObjectID = "M2f-Ip-7Dp"; */
+"M2f-Ip-7Dp.normalTitle" = "list";
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "bo1-oC-jro"; */
+"bo1-oC-jro.normalTitle" = "OK";
+
+/* Class = "IBUIButton"; normalTitle = "Move here"; ObjectID = "eQz-OY-uMm"; */
+"eQz-OY-uMm.normalTitle" = "Move here";
+
+/* Class = "IBUIButton"; normalTitle = "layout"; ObjectID = "fHF-6N-zuo"; */
+"fHF-6N-zuo.normalTitle" = "layout";
+
+/* Class = "IBUIButton"; normalTitle = "select"; ObjectID = "hai-Yp-rDw"; */
+"hai-Yp-rDw.normalTitle" = "select";
+
+/* Class = "IBUIButton"; normalTitle = "Start Slideshow"; ObjectID = "rbd-d6-uoo"; */
+"rbd-d6-uoo.normalTitle" = "Start Slideshow";
+
+/* Class = "IBUIButton"; normalTitle = "grid"; ObjectID = "uJg-8W-YKi"; */
+"uJg-8W-YKi.normalTitle" = "grid";

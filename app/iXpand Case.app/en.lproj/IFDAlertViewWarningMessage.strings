@@ -1,0 +1,9 @@
+
+/* Class = "IBUILabel"; text = "When files are locked, they'll be moved to the \"SanDiskSecureAccess Vault\" folder."; ObjectID = "ZAx-NO-Brr"; */
+"ZAx-NO-Brr.text" = "When files are locked, they'll be moved to the \"SanDiskSecureAccess Vault\" folder.";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "nUP-WN-7Zw"; */
+"nUP-WN-7Zw.normalTitle" = "Cancel";
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "oKe-Yy-6bY"; */
+"oKe-Yy-6bY.normalTitle" = "OK";

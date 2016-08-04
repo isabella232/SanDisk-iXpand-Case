@@ -1,0 +1,9 @@
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "DaF-jb-0mf"; */
+"DaF-jb-0mf.normalTitle" = "Cancel";
+
+/* Class = "IBUILabel"; text = "This will restore Security Settings\nand Drive Name to factory defaults\n\nNote:this might take considerable time if a lot of data that is encrypted on the Drive and therfore should make sure they have sufficient battery left on their Phone and Drive.\n\nWe advise to restore to factory settings by reformatting the Drive using Computer."; ObjectID = "giK-WT-NfB"; */
+"giK-WT-NfB.text" = "This will restore Security Settings\nand Drive Name to factory defaults\n\nNote:this might take considerable time if a lot of data that is encrypted on the Drive and therfore should make sure they have sufficient battery left on their Phone and Drive.\n\nWe advise to restore to factory settings by reformatting the Drive using Computer.";
+
+/* Class = "IBUIButton"; normalTitle = "Restore"; ObjectID = "zrM-rB-kMi"; */
+"zrM-rB-kMi.normalTitle" = "Restore";

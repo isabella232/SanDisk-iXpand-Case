@@ -1,0 +1,15 @@
+
+/* Class = "IBUIButton"; normalTitle = "Settings"; ObjectID = "5gQ-dh-ix2"; */
+"5gQ-dh-ix2.normalTitle" = "Settings";
+
+/* Class = "IBUIButton"; normalTitle = "Dashboard"; ObjectID = "VPw-9e-1dI"; */
+"VPw-9e-1dI.normalTitle" = "Dashboard";
+
+/* Class = "IBUIButton"; normalTitle = "WiFi Transfer"; ObjectID = "mf5-Qv-pgy"; */
+"mf5-Qv-pgy.normalTitle" = "WiFi Transfer";
+
+/* Class = "IBUIButton"; normalTitle = "Help"; ObjectID = "nFt-pz-TWc"; */
+"nFt-pz-TWc.normalTitle" = "Help";
+
+/* Class = "IBUIButton"; normalTitle = "Camera Backup"; ObjectID = "pgI-56-2Pj"; */
+"pgI-56-2Pj.normalTitle" = "Camera Backup";

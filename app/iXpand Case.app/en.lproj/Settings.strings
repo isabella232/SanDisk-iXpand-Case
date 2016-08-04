@@ -1,0 +1,75 @@
+
+/* Class = "IBUILabel"; text = "If security is enabled, individual files and folders can be secured or locked with a password. The locked files will not be accessible without the correct password."; ObjectID = "2Ba-2b-XQu"; */
+"2Ba-2b-XQu.text" = "If security is enabled, individual files and folders can be secured or locked with a password. The locked files will not be accessible without the correct password.";
+
+/* Class = "IBUIButton"; normalTitle = "About"; ObjectID = "3bm-A2-UL8"; */
+"3bm-A2-UL8.normalTitle" = "About";
+
+/* Class = "IBUITextField"; placeholder = "Enter Hint"; ObjectID = "4KR-co-v68"; */
+"4KR-co-v68.placeholder" = "Enter Hint";
+
+/* Class = "IBUIButton"; normalTitle = "Change Hint"; ObjectID = "8Mb-Lh-DRs"; */
+"8Mb-Lh-DRs.normalTitle" = "Change Hint";
+
+/* Class = "IBUITextField"; placeholder = "Drive Name"; ObjectID = "GUL-U5-1sU"; */
+"GUL-U5-1sU.placeholder" = "Case Name";
+
+/* Class = "IBUILabel"; text = "Enter name here"; ObjectID = "GgD-xM-V7h"; */
+"GgD-xM-V7h.text" = "Enter name here";
+
+/* Class = "IBUIButton"; normalTitle = "Legal"; ObjectID = "HQf-Kh-mkx"; */
+"HQf-Kh-mkx.normalTitle" = "Legal";
+
+/* Class = "IBUIButton"; normalTitle = "Change Password"; ObjectID = "B9C-CG-W5v"; */
+"B9C-CG-W5v.normalTitle" = "Change Password";
+
+/* Class = "IBUILabel"; text = "Unknown"; ObjectID = "Rb8-cA-vJC"; */
+"Rb8-cA-vJC.text" = "Unknown";
+
+/* Class = "IBUIButton"; normalTitle = "Security"; ObjectID = "dZe-CI-GuR"; */
+"dZe-CI-GuR.normalTitle" = "Security";
+
+/* Class = "IBUIButton"; normalTitle = "End User Licensing Agreement"; ObjectID = "ecc-wS-kX7"; */
+"ecc-wS-kX7.normalTitle" = "End User Licensing Agreement";
+
+/* Class = "IBUILabel"; text = "Device ID"; ObjectID = "h45-Wv-MVT"; */
+"h45-Wv-MVT.text" = "Device ID";
+
+/* Class = "IBUIButton"; normalTitle = "Open Source Attributions"; ObjectID = "l8H-6R-YCy"; */
+"l8H-6R-YCy.normalTitle" = "Open Source Attributions";
+
+/* Class = "IBUILabel"; text = "Enable Security"; ObjectID = "eQE-xs-pWM"; */
+"eQE-xs-pWM.text" = "Enable Security";
+
+/* Class = "IBUIButton"; normalTitle = "Restore Factory Settings"; ObjectID = "m9v-dX-WyD"; */
+"m9v-dX-WyD.normalTitle" = "Restore Factory Settings";
+
+/* Class = "IBUIButton"; normalTitle = "Battery Settings"; ObjectID = "ncb-zW-GoV"; */
+"ncb-zW-GoV.normalTitle" = "Battery Settings";
+
+/* Class = "IBUIButton"; normalTitle = "Privacy Policy"; ObjectID = "pI2-m4-t4M"; */
+"pI2-m4-t4M.normalTitle" = "Privacy Policy";
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "sS3-DV-S5D"; */
+"sS3-DV-S5D.normalTitle" = "OK";
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "tqX-yH-K16"; */
+"tqX-yH-K16.normalTitle" = "OK";
+
+/* Class = "IBUILabel"; text = "Enter a hint to help you remember your password. This hint will be revealed to you after three unsussessful password attempts."; ObjectID = "uMQ-43-uN3"; */
+"uMQ-43-uN3.text" = "Enter a hint to help you remember your password. This hint will be revealed to you after three unsussessful password attempts.";
+
+/* Class = "IBUIButton"; text = "Case Name"; ObjectID = "ogD-vd-dze"; */
+"ogD-vd-dze.normalTitle" = "Case Name";
+
+/* Class = "IBUIButton"; text = "Feedback"; ObjectID = "rNq-I0-O9l"; */
+"rNq-I0-O9l.normalTitle" = "Feedback";
+
+/* Class = "IBUIButton"; text = "Anonymous Data Sharing"; ObjectID = "DTC-dK-FSD"; */
+"DTC-dK-FSD.normalTitle" = "Anonymous Data Sharing";
+
+/* Class = "IBUILabel"; text = "Security disabled. Previously locked files will remain secured."; ObjectID = "kvj-gq-svB"; */
+"kvj-gq-svB.text" = "Security disabled. Previously locked files will remain secured.";
+
+/* Class = "UILabel"; text = "Use Touch ID"; ObjectID = "J9Z-vj-jff"; */
+"J9Z-vj-jff.text" = "Use Touch ID";

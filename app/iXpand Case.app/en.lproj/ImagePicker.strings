@@ -1,0 +1,24 @@
+
+/* Class = "IBUIButton"; normalTitle = "All"; ObjectID = "94m-Yw-R3k"; */
+"94m-Yw-R3k.normalTitle" = "All";
+
+/* Class = "IBUIButton"; normalTitle = "Select Destination"; ObjectID = "CcU-9h-TqX"; */
+"CcU-9h-TqX.normalTitle" = "Select Destination";
+
+/* Class = "IBUILabel"; text = "Select & Add photos or videos to the Drive."; ObjectID = "HxT-hy-55s"; */
+"HxT-hy-55s.text" = "Select & Add photos or videos to the Drive.";
+
+/* Class = "IBUIButton"; normalTitle = "Select Destination"; ObjectID = "KeE-I7-6HK"; */
+"KeE-I7-6HK.normalTitle" = "Select Destination";
+
+/* Class = "IBUILabel"; text = "Select & Add photos or videos to the Drive."; ObjectID = "cTa-MP-kLz"; */
+"cTa-MP-kLz.text" = "Select & Add photos or videos to the Drive.";
+
+/* Class = "IBUIButton"; normalTitle = "Albums"; ObjectID = "jmM-Lt-LLs"; */
+"jmM-Lt-LLs.normalTitle" = "Albums";
+
+/* Class = "IBUIButton"; normalTitle = "All"; ObjectID = "nzG-yM-kUl"; */
+"nzG-yM-kUl.normalTitle" = "All";
+
+/* Class = "IBUIButton"; normalTitle = "Photos"; ObjectID = "ys4-1n-zSU"; */
+"ys4-1n-zSU.normalTitle" = "Photos";

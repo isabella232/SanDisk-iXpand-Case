@@ -1,0 +1,9 @@
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "HQz-Ns-TeB"; */
+"HQz-Ns-TeB.normalTitle" = "Cancel";
+
+/* Class = "IBUILabel"; text = "An update is available for your iXpand Memory Case"; ObjectID = "PYc-6t-dSV"; */
+"PYc-6t-dSV.text" = "An update is available for your iXpand Memory Case";
+
+/* Class = "IBUIButton"; normalTitle = "Update"; ObjectID = "ena-TM-Mbk"; */
+"ena-TM-Mbk.normalTitle" = "Update";

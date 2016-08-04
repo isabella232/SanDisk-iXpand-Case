@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>iXpand</title>
+
+    <link rel="stylesheet" href="/fonts/stylesheet.css" type="text/css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="/css/dropzone.css" type="text/css">
+    <link rel="stylesheet" href="/lightgallery/css/lightgallery.css" type="text/css">
+    <link rel="stylesheet" href="/css/style.css" type="text/css">
+</head>
+
+<body>
+    <div id="auth" class="hidden">
+        <div class="auth">
+            <h1><img src="/img/logo.png" alt="iXpand logo"></h1>
+            <span>Enter the code show in the<br>WiFi File Management section<br>of the iXpand Memory Case iOS app</span>
+            <div class="code-input">
+                <form id="auth-form" action="">
+                    <input type="text" id="auth-code-input" name="authcode" maxlength="4" />
+                    <input class="hidden" type="submit" />
+                </form>
+            </div>
+            <p id="auth-failure" style="color: red;">Invalid code</p>
+        </div>
+    </div>
+
+    <div id="file-browser" class="container hidden">
+        <div class="main-wrap">
+            <header>
+                <img src="/img/small-logo.png" />
+                <a href="#"><span id="disconnect" class="disconnect">Disconnect</span></a>
+            </header>
+
+            <section class="file-uploader">
+                <form id="the-dropzone" class="dropzone">
+                    <div class="dz-message">
+                        <img src="/img/file-icon.png" />
+                        <span>drop files here to upload to the case</span>
+                    </div>
+                </form>
+            </section>
+
+            <div class="main">
+                <div class="row mode-header">
+                    <div class="col-md-3 col-xs-12">
+                        <span id="title" class="info">photos on the case</span>
+                    </div>
+                    <div class="col-md-6 col-xs-12">
+                        <ul class="filter-select">
+                            <li class="photo-view active" data-filter=".photo">Photos</li>
+                            <li class="video-view" data-filter=".video">Videos</li>
+                            <li class="audio-view" data-filter=".audio">Audio</li>
+                            <li class="other-view" data-filter=".other">All Files</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3 col-xs-12">
+                        <ul class="mode-select">
+                            <li class="active" data-content-mode="grid">Grid View</li>
+                            <li data-content-mode="list">List View</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="content-wrap">
+                    <section class="group grid-wrap">
+                        <script id="grid-template" type="text/x-handlebars-template">
+                            {{#each files.moments}}
+                                <time class="grid-time">{{momentToString this}}</time>
+                                <div class="grid">
+                                    {{#each (lookup ../files.bucketed (momentToString this))}}
+                                        <div class="grid-item {{this.type}}" data-src="{{browsePath this}}">
+                                            <a class="src-link" href="{{browsePath this}}"><img title="{{name}}" src="/thumb{{this.path}}" /></a>
+                                        </div>
+                                    {{/each}}
+                                </div>
+                            {{/each}}
+                        </script>
+
+                        <div id="grid-view">
+                        </div>
+                    </section>
+
+                    <section class="group list-wrap hidden">
+                        <div class="list">
+                            <script id="list-template" type="text/x-handlebars-template">
+                                <tbody>
+                                    {{#each files.sortedByName}}
+                                        <tr>
+                                            <td>
+                                                <a class="src-link" href="{{browsePath this}}"><img class="list-thumb" title="{{name}}" src="/thumb{{this.path}}" /></a>
+                                                <span>{{name}}</span>
+                                            </td>
+                                            <td></td>
+                                            <td>
+                                                <ul>
+                                                    <li><time>{{reformatDate this.modificationDate}}</time></li>
+                                                    <li>{{sizeToString this.size}}</li>
+                                                    <li><a href="{{browsePath this}}" download target="_blank"><img src="/img/download-icon.png" alt="" /></a></li>
+                                                    <li><a class="delete" href="#" data-path="{{this.path}}"><img src="/img/delete-icon.png" alt="" /></a></li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                    {{/each}}
+                                </tbody>
+                            </script>
+
+                            <div class="table-responsive">
+                                <table id="list-view" class="table">
+                                </table>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="/js/underscore.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.cookie.min.js"></script>
+    <script type="text/javascript" src="/js/moment-with-locales.min.js"></script>
+    <script type="text/javascript" src="/js/numeral.min.js"></script>
+    <script type="text/javascript" src="/js/numeral-lang.min.js"></script>
+    <script type="text/javascript" src="/js/backbone.min.js"></script>
+    <script type="text/javascript" src="/js/handlebars.js"></script>
+    <script type="text/javascript" src="/js/freewall.min.js"></script>
+    <script type="text/javascript" src="/lightgallery/js/lightgallery.min.js"></script>
+    <script type="text/javascript" src="/js/dropzone.js"></script>
+    <script type="text/javascript" src="/js/main.js"></script>
+</body>
+</html>

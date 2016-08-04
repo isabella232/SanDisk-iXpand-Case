@@ -1,0 +1,27 @@
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "92A-xI-dhR"; */
+"92A-xI-dhR.normalTitle" = "OK";
+
+/* Class = "IBUILabel"; text = "Destination"; ObjectID = "9fm-1b-cDs"; */
+"9fm-1b-cDs.text" = "Destination";
+
+/* Class = "IBUIButton"; normalTitle = "Back Up Now"; ObjectID = "GK3-03-ClY"; */
+"GK3-03-ClY.normalTitle" = "Back Up Now";
+
+/* Class = "IBUITextField"; placeholder = "camera backup Folder Name"; ObjectID = "p5T-G3-Mzh"; */
+"p5T-G3-Mzh.placeholder" = "camera backup Folder Name";
+
+/* Class = "IBUILabel"; text = "Automatic Backup"; ObjectID = "p7h-qh-Uex"; */
+"p7h-qh-Uex.text" = "Automatic Backup";
+
+/* Class = "IBUILabel"; text = "Enter new name for camera backup folder:"; ObjectID = "svG-sr-Kwt"; */
+"svG-sr-Kwt.text" = "Enter new name for camera backup folder:";
+
+/* Class = "IBUILabel"; text = "My iPhone Backup"; ObjectID = "uVs-Ie-4rb"; */
+"uVs-Ie-4rb.text" = "My iPhone Backup";
+
+/* Class = "IBUILabel"; text = "Backup ON: Your photo library will be automatically backed up and saved in your %@ folder."; ObjectID = "wST-wj-OJS"; */
+"wST-wj-OJS.text" = "Backup ON: Your photo library will be automatically backed up and saved to your %@ folder.";
+
+/* Class = "IBUILabel"; text = "If Camera Backup is ON, photos in your phone's photo library automatically transfer to the drive when connected. After the first backup, only NEW photos from the camera backup."; ObjectID = "tLn-HV-Mua"; */
+"tLn-HV-Mua.text" = "If Camera Backup is ON, photos on your phone's photo library automatically transfer to the drive when connected. After the first backup, only NEW photos from the photo library are backed up.";

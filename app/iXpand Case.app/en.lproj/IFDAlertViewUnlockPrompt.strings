@@ -1,0 +1,21 @@
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "Jxy-Sy-gsr"; */
+"Jxy-Sy-gsr.normalTitle" = "OK";
+
+/* Class = "IBUILabel"; text = "This folder is locked"; ObjectID = "VlU-yP-wQX"; */
+"VlU-yP-wQX.text" = "This folder is locked";
+
+/* Class = "IBUILabel"; text = "view"; ObjectID = "s89-K1-NuN"; */
+"s89-K1-NuN.text" = "view";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "tW1-dJ-0wK"; */
+"tW1-dJ-0wK.normalTitle" = "Cancel";
+
+/* Class = "IBUILabel"; text = "Enter password to unlock"; ObjectID = "uGn-O3-epd"; */
+"uGn-O3-epd.text" = "Enter password to unlock";
+
+/* Class = "IBUILabel"; text = "unlock"; ObjectID = "xHq-8B-Krz"; */
+"xHq-8B-Krz.text" = "unlock";
+
+/* Class = "IBUITextField"; placeholder = "password"; ObjectID = "z5C-4f-bTs"; */
+"z5C-4f-bTs.placeholder" = "password";

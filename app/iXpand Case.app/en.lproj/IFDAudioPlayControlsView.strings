@@ -1,0 +1,12 @@
+
+/* Class = "IBUILabel"; text = "Artist Name/Album Name"; ObjectID = "Dc7-zY-UoG"; */
+"Dc7-zY-UoG.text" = "Artist Name/Album Name";
+
+/* Class = "IBUILabel"; text = "--:--"; ObjectID = "RPo-CL-jEd"; */
+"RPo-CL-jEd.text" = "--:--";
+
+/* Class = "IBUILabel"; text = "--:--"; ObjectID = "VSu-3Z-Jhe"; */
+"VSu-3Z-Jhe.text" = "--:--";
+
+/* Class = "IBUILabel"; text = "Song Title"; ObjectID = "jIq-Qw-4cT"; */
+"jIq-Qw-4cT.text" = "Song Title";
